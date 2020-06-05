@@ -1,0 +1,7 @@
+D:\Desktop\CSharp-Kaunas-Coding-School\uzduotys\2\bin\Debug\2.exe.config
+D:\Desktop\CSharp-Kaunas-Coding-School\uzduotys\2\bin\Debug\2.exe
+D:\Desktop\CSharp-Kaunas-Coding-School\uzduotys\2\bin\Debug\2.pdb
+D:\Desktop\CSharp-Kaunas-Coding-School\uzduotys\2\obj\Debug\2.csprojAssemblyReference.cache
+D:\Desktop\CSharp-Kaunas-Coding-School\uzduotys\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+D:\Desktop\CSharp-Kaunas-Coding-School\uzduotys\2\obj\Debug\2.exe
+D:\Desktop\CSharp-Kaunas-Coding-School\uzduotys\2\obj\Debug\2.pdb
