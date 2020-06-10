@@ -1,0 +1,6 @@
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200609\uz-10\obj\Debug\uz-10.csproj.CoreCompileInputs.cache
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200609\uz-10\bin\Debug\uz-10.exe.config
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200609\uz-10\bin\Debug\uz-10.exe
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200609\uz-10\bin\Debug\uz-10.pdb
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200609\uz-10\obj\Debug\uz-10.exe
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200609\uz-10\obj\Debug\uz-10.pdb
