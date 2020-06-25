@@ -1,0 +1,2 @@
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200623\inheritance-pvz\obj\Debug\inheritance-pvz.csprojAssemblyReference.cache
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200623\inheritance-pvz\obj\Debug\inheritance-pvz.csproj.CoreCompileInputs.cache

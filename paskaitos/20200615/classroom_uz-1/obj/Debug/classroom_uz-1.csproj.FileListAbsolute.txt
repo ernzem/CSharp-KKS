@@ -1,0 +1,2 @@
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200615\classroom_uz-1\obj\Debug\classroom_uz-1.csprojAssemblyReference.cache
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200615\classroom_uz-1\obj\Debug\classroom_uz-1.csproj.CoreCompileInputs.cache

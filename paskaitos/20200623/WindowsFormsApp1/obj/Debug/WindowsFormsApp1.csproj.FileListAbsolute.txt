@@ -1,0 +1,10 @@
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200623\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200623\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200623\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200623\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200623\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200623\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200623\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200623\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200623\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200623\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources

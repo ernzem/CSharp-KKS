@@ -1,0 +1,6 @@
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200615\uz2-fibonaci_skaiciai_masyve\bin\Debug\uz2-fibonaci_skaiciai_masyve.exe.config
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200615\uz2-fibonaci_skaiciai_masyve\bin\Debug\uz2-fibonaci_skaiciai_masyve.exe
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200615\uz2-fibonaci_skaiciai_masyve\bin\Debug\uz2-fibonaci_skaiciai_masyve.pdb
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200615\uz2-fibonaci_skaiciai_masyve\obj\Debug\uz2-fibonaci_skaiciai_masyve.csproj.CoreCompileInputs.cache
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200615\uz2-fibonaci_skaiciai_masyve\obj\Debug\uz2-fibonaci_skaiciai_masyve.exe
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200615\uz2-fibonaci_skaiciai_masyve\obj\Debug\uz2-fibonaci_skaiciai_masyve.pdb

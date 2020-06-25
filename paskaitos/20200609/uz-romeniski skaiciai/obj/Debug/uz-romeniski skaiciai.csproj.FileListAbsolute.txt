@@ -1,0 +1,7 @@
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200609\uz-romeniski skaiciai\bin\Debug\uz-romeniski skaiciai.exe.config
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200609\uz-romeniski skaiciai\bin\Debug\uz-romeniski skaiciai.exe
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200609\uz-romeniski skaiciai\bin\Debug\uz-romeniski skaiciai.pdb
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200609\uz-romeniski skaiciai\obj\Debug\uz-romeniski skaiciai.csprojAssemblyReference.cache
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200609\uz-romeniski skaiciai\obj\Debug\uz-romeniski skaiciai.csproj.CoreCompileInputs.cache
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200609\uz-romeniski skaiciai\obj\Debug\uz-romeniski skaiciai.exe
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200609\uz-romeniski skaiciai\obj\Debug\uz-romeniski skaiciai.pdb

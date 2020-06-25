@@ -1,0 +1,7 @@
+C:\Users\Ernestas\source\repos\OOP-pvz\bin\Debug\OOP-pvz.exe.config
+C:\Users\Ernestas\source\repos\OOP-pvz\bin\Debug\OOP-pvz.exe
+C:\Users\Ernestas\source\repos\OOP-pvz\bin\Debug\OOP-pvz.pdb
+C:\Users\Ernestas\source\repos\OOP-pvz\obj\Debug\OOP-pvz.csprojAssemblyReference.cache
+C:\Users\Ernestas\source\repos\OOP-pvz\obj\Debug\OOP-pvz.csproj.CoreCompileInputs.cache
+C:\Users\Ernestas\source\repos\OOP-pvz\obj\Debug\OOP-pvz.exe
+C:\Users\Ernestas\source\repos\OOP-pvz\obj\Debug\OOP-pvz.pdb
