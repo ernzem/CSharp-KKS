@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parduotuve", "Parduotuve\Parduotuve.csproj", "{11EAC71F-2E04-4A0F-9257-DD2633FF3028}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{A34C9277-2F59-4EF5-ACF1-E3DC9C4BDCCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11EAC71F-2E04-4A0F-9257-DD2633FF3028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11EAC71F-2E04-4A0F-9257-DD2633FF3028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11EAC71F-2E04-4A0F-9257-DD2633FF3028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11EAC71F-2E04-4A0F-9257-DD2633FF3028}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A34C9277-2F59-4EF5-ACF1-E3DC9C4BDCCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A34C9277-2F59-4EF5-ACF1-E3DC9C4BDCCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A34C9277-2F59-4EF5-ACF1-E3DC9C4BDCCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A34C9277-2F59-4EF5-ACF1-E3DC9C4BDCCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38AA7ED5-33FA-4568-8E55-F5CB669AE82F}
+	EndGlobalSection
+EndGlobal

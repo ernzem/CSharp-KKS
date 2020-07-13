@@ -1,0 +1,7 @@
+D:\Desktop\CSharp-Kaunas-Coding-School\atsiskaitymas-20200711\Parduotuve\Parduotuve\obj\Debug\Parduotuve.csprojAssemblyReference.cache
+D:\Desktop\CSharp-Kaunas-Coding-School\atsiskaitymas-20200711\Parduotuve\Parduotuve\obj\Debug\Parduotuve.csproj.CoreCompileInputs.cache
+D:\Desktop\CSharp-Kaunas-Coding-School\atsiskaitymas-20200711\Parduotuve\Parduotuve\bin\Debug\Parduotuve.exe.config
+D:\Desktop\CSharp-Kaunas-Coding-School\atsiskaitymas-20200711\Parduotuve\Parduotuve\bin\Debug\Parduotuve.exe
+D:\Desktop\CSharp-Kaunas-Coding-School\atsiskaitymas-20200711\Parduotuve\Parduotuve\bin\Debug\Parduotuve.pdb
+D:\Desktop\CSharp-Kaunas-Coding-School\atsiskaitymas-20200711\Parduotuve\Parduotuve\obj\Debug\Parduotuve.exe
+D:\Desktop\CSharp-Kaunas-Coding-School\atsiskaitymas-20200711\Parduotuve\Parduotuve\obj\Debug\Parduotuve.pdb

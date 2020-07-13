@@ -1,0 +1,17 @@
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200630\CsharpUnitTestavimas-master\TestavimoUzduotis\UnitTestSkaiciuotuvas\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200630\CsharpUnitTestavimas-master\TestavimoUzduotis\UnitTestSkaiciuotuvas\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200630\CsharpUnitTestavimas-master\TestavimoUzduotis\UnitTestSkaiciuotuvas\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200630\CsharpUnitTestavimas-master\TestavimoUzduotis\UnitTestSkaiciuotuvas\bin\Debug\UnitTestSkaiciuotuvas.dll
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200630\CsharpUnitTestavimas-master\TestavimoUzduotis\UnitTestSkaiciuotuvas\bin\Debug\UnitTestSkaiciuotuvas.pdb
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200630\CsharpUnitTestavimas-master\TestavimoUzduotis\UnitTestSkaiciuotuvas\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200630\CsharpUnitTestavimas-master\TestavimoUzduotis\UnitTestSkaiciuotuvas\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200630\CsharpUnitTestavimas-master\TestavimoUzduotis\UnitTestSkaiciuotuvas\bin\Debug\TestavimoUzduotis.exe
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200630\CsharpUnitTestavimas-master\TestavimoUzduotis\UnitTestSkaiciuotuvas\bin\Debug\TestavimoUzduotis.pdb
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200630\CsharpUnitTestavimas-master\TestavimoUzduotis\UnitTestSkaiciuotuvas\bin\Debug\TestavimoUzduotis.exe.config
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200630\CsharpUnitTestavimas-master\TestavimoUzduotis\UnitTestSkaiciuotuvas\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200630\CsharpUnitTestavimas-master\TestavimoUzduotis\UnitTestSkaiciuotuvas\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200630\CsharpUnitTestavimas-master\TestavimoUzduotis\UnitTestSkaiciuotuvas\obj\Debug\UnitTestSkaiciuotuvas.csprojAssemblyReference.cache
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200630\CsharpUnitTestavimas-master\TestavimoUzduotis\UnitTestSkaiciuotuvas\obj\Debug\UnitTestSkaiciuotuvas.csproj.CoreCompileInputs.cache
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200630\CsharpUnitTestavimas-master\TestavimoUzduotis\UnitTestSkaiciuotuvas\obj\Debug\UnitTestSkaiciuotuvas.csproj.CopyComplete
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200630\CsharpUnitTestavimas-master\TestavimoUzduotis\UnitTestSkaiciuotuvas\obj\Debug\UnitTestSkaiciuotuvas.dll
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200630\CsharpUnitTestavimas-master\TestavimoUzduotis\UnitTestSkaiciuotuvas\obj\Debug\UnitTestSkaiciuotuvas.pdb

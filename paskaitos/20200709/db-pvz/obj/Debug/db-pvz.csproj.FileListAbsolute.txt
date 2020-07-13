@@ -1,0 +1,9 @@
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200709\db-pvz\bin\Debug\Database1.mdf
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200709\db-pvz\bin\Debug\Database1_log.ldf
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200709\db-pvz\bin\Debug\db-pvz.exe.config
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200709\db-pvz\bin\Debug\db-pvz.exe
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200709\db-pvz\bin\Debug\db-pvz.pdb
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200709\db-pvz\obj\Debug\db-pvz.csprojAssemblyReference.cache
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200709\db-pvz\obj\Debug\db-pvz.csproj.CoreCompileInputs.cache
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200709\db-pvz\obj\Debug\db-pvz.exe
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200709\db-pvz\obj\Debug\db-pvz.pdb

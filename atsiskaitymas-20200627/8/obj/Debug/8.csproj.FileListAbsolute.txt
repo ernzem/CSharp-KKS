@@ -1,0 +1,7 @@
+D:\Desktop\CSharp-Kaunas-Coding-School\atsiskaitymas-20200627\8\bin\Debug\8.exe.config
+D:\Desktop\CSharp-Kaunas-Coding-School\atsiskaitymas-20200627\8\bin\Debug\8.exe
+D:\Desktop\CSharp-Kaunas-Coding-School\atsiskaitymas-20200627\8\bin\Debug\8.pdb
+D:\Desktop\CSharp-Kaunas-Coding-School\atsiskaitymas-20200627\8\obj\Debug\8.csprojAssemblyReference.cache
+D:\Desktop\CSharp-Kaunas-Coding-School\atsiskaitymas-20200627\8\obj\Debug\8.csproj.CoreCompileInputs.cache
+D:\Desktop\CSharp-Kaunas-Coding-School\atsiskaitymas-20200627\8\obj\Debug\8.exe
+D:\Desktop\CSharp-Kaunas-Coding-School\atsiskaitymas-20200627\8\obj\Debug\8.pdb

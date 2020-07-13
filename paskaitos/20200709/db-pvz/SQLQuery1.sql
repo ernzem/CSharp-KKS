@@ -1,0 +1,1 @@
+﻿Insert into Preke(Pavadinima, Kaina) values('Grietine', 2.89)

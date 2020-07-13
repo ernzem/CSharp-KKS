@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "te9hdXt0nzSjeg1mlifMf57gclqkGrYneQbdcQidpEJV3ZgfMJgoJDvLwOWBntxyjhB04HEWBErKJHTc4zY/eQ==",
+  "success": true,
+  "projectFilePath": "D:\\Desktop\\CSharp-Kaunas-Coding-School\\paskaitos\\20200625\\DuomenuRasymasIrSkaitymas\\DuomenuRasymasIrSkaitymas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ernestas\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Ernestas\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

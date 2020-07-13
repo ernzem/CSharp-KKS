@@ -1,0 +1,10 @@
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200706\uzduotis-zodynelis\bin\Debug\uzduotis-zodynelis.exe.config
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200706\uzduotis-zodynelis\bin\Debug\uzduotis-zodynelis.exe
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200706\uzduotis-zodynelis\bin\Debug\uzduotis-zodynelis.pdb
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200706\uzduotis-zodynelis\obj\Debug\uzduotis-zodynelis.csprojAssemblyReference.cache
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200706\uzduotis-zodynelis\obj\Debug\uzduotis_zodynelis.Form1.resources
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200706\uzduotis-zodynelis\obj\Debug\uzduotis_zodynelis.Properties.Resources.resources
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200706\uzduotis-zodynelis\obj\Debug\uzduotis-zodynelis.csproj.GenerateResource.cache
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200706\uzduotis-zodynelis\obj\Debug\uzduotis-zodynelis.csproj.CoreCompileInputs.cache
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200706\uzduotis-zodynelis\obj\Debug\uzduotis-zodynelis.exe
+D:\Desktop\CSharp-Kaunas-Coding-School\paskaitos\20200706\uzduotis-zodynelis\obj\Debug\uzduotis-zodynelis.pdb
